@@ -1,4 +1,3 @@
-// src/components/PostList.js
 import styles from "./BlogViewer.module.css";
 
 export default function PostList({ posts, onPostClick, activePostId }) {

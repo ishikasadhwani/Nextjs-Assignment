@@ -1,4 +1,3 @@
-// src/__tests__/PostDetail.test.js
 import { render, screen } from "@testing-library/react";
 import PostDetail from "../components/PostDetail";
 

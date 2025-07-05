@@ -1,4 +1,3 @@
-// src/__tests__/PostList.test.js
 import { render, screen, fireEvent } from "@testing-library/react";
 import PostList from "../components/PostList";
 

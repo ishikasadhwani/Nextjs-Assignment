@@ -1,4 +1,3 @@
-// src/__tests__/Post-SSR.test.js
 import { render, screen, fireEvent } from "@testing-library/react";
 import SSRPostsPage, { getServerSideProps } from "../pages/posts-ssr";
 
@@ -58,7 +57,7 @@ describe("getServerSideProps", () => {
     try {
       result = await getServerSideProps();
     } catch (err) {
-      result = { props: { posts: [] } }; // default fallback in test
+      result = { props: { posts: [] } };
     }
 
     expect(result).toEqual({

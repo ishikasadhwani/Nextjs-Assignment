@@ -1,5 +1,3 @@
-// pages/api/posts.js
-
 export default function handler(req, res) {
   const posts = [
     {

@@ -1,4 +1,3 @@
-// src/components/PostDetail.js
 import styles from "./BlogViewer.module.css";
 
 export default function PostDetail({ post }) {
