@@ -67,6 +67,8 @@ npm test
 npx jest
 ```
 
+---
+
 ## 🧪 Test Coverage
 
 This project uses **Jest** and **React Testing Library** to ensure component reliability and correctness.
@@ -85,8 +87,6 @@ This project uses **Jest** and **React Testing Library** to ensure component rel
 
 Follow these steps to run the Blog Viewer project locally:
 
----
-
 ### 1. 📦 Clone the Repository
 
 ```bash
@@ -98,8 +98,6 @@ cd blog-viewer
 
 ```bash
 npm install
-
-
 
 ```
 
@@ -119,11 +117,15 @@ Open your browser and go to:
 http://localhost:3000
 ```
 
+---
+
 ### 📌 Tech Stack
 
 - ⚛️ **React / Next.js** – Framework for building the UI and server-side rendering.
 - 🎨 **CSS Modules** – Scoped styling for components.
 - 🧪 **Jest + React Testing Library** – For unit testing components.
+
+---
 
 ### 👩‍💻 Author
 
