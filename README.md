@@ -81,6 +81,12 @@ This project uses **Jest** and **React Testing Library** to ensure component rel
 | `PostDetail`   | Checks rendering based on selected post                 |
 | `posts-ssr.js` | Unit tests for `getServerSideProps` success and failure |
 
+### 🧪 Run Tests with coverage
+
+```bash
+npx jest --coverage
+```
+
 ---
 
 ## ⚙️ Project Setup
